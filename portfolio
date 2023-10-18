@@ -1,0 +1,110 @@
+
+
+<!DOCTYPE html>
+
+<html><head>
+
+<style>
+
+body{
+
+background-color: white;
+
+}
+
+
+#r{
+
+padding: 40px;
+
+background-color:bisque;
+
+margin-left: 200px;
+
+border-radius: 20px;
+
+margin-bottom: 40px;
+
+}
+
+.bari{
+    margin-top: 10px;
+    font-size:xx-large;
+    text-align: center;
+    border-radius: 30px;
+    padding: 10px;
+    width: 1480px;
+    background-color: aqua;
+}
+#o{
+    text-align: center;
+    margin-left: 100px;
+}
+
+
+
+
+</style>
+
+</head>
+
+<body5>
+
+<h1 class="bari">&emsp;&emsp;&emsp;GEDELA SATISH 
+    <h3 id="o"> WEB DEVELOPMENT INTERN
+    </h3>
+
+
+
+<H2 id="r"> HELLO... I AM G.SATISH <br><br>
+   
+<hr>
+
+
+I am an enthusiastic, self-motivated,reliable,responsible and hard working person.Iam a mature team worker and adaptable to all challenging situations.I am able to work well both in a team  as well as using own initiative.I am able to work well under pressure and adhere to strict deadlines.I am a dedicated, organized and methodical individual. I have good interpersonal skills.I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.I have an active and dynamic approch to work and getting things done.I am determined and decisive. I am identify and develop opportunities
+
+
+</H2>
+
+<H2 id="r"> PROJECTS 
+
+    <hr>
+    <LI> Currently i am doing a mini project in Bharat intern web development</LI>
+    
+    <LI> And also  a mini project in CodeClause web development</LI>
+    
+    
+    </H2>
+
+<H2 id="r"> SKILLS
+
+    <hr>
+    <LI>BASICS KNOWLEDGE IN JAVA </LI>
+    
+    <LI> PHYTHON</LI>
+    <LI> WEB DEVELOPMENT</LI>
+    
+    
+    </H2>
+
+<H2 id="r"> CONTACT 
+
+    <hr>
+    <LI> GITHUB LINK:<A href="https://github.com/sAti32sh">   https://github.com/sAti32sh</A>
+    </LI>
+    <LI>LINKEDIN:<A href="https://www.linkedin.com/in/gedela-satish-60b84023a?trk=contact-info">    https://www.linkedin.com/in/gedela-satish-60b84023a?trk=contact-info</A></LI>
+    
+
+    <LI> EMAIL: 21pa1a1231@vishnu.edu.in</LI>
+    
+    <LI> MOBILE NO: 8555891968</LI>
+    
+    
+    
+    </H2>
+
+
+
+
+</body5>
+</html>
